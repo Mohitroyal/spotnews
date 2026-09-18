@@ -58,10 +58,10 @@ export const Footer: React.FC = () => {
               <Mail className="w-3.5 h-3.5 text-amber-400" />
               <span>Contact: </span>
               <a
-                href="mailto:contactspotnews@gmail.com"
+                href="mailto:fouziyapublications@gmail.com"
                 className="text-white hover:underline font-semibold"
               >
-                contactspotnews@gmail.com
+                fouziyapublications@gmail.com
               </a>
             </p>
           </div>

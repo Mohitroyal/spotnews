@@ -35,7 +35,7 @@ export const AboutPage: React.FC = () => {
             <p><strong>Legal Entity:</strong> FOUZIYA PUBLICATIONS</p>
             <p><strong>Application:</strong> Spot News 24x7</p>
             <p><strong>Official e-Paper:</strong> fouziyapublications.com</p>
-            <p><strong>Support Email:</strong> contactspotnews@gmail.com</p>
+            <p><strong>Support Email:</strong> fouziyapublications@gmail.com</p>
             <p><strong>Helpline:</strong> 7668886666</p>
           </div>
         </div>

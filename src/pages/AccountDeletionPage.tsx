@@ -64,10 +64,10 @@ export const AccountDeletionPage: React.FC = () => {
               <div className="min-w-0">
                 <p className="text-[10px] uppercase font-bold text-[#6B7A90]">Contact</p>
                 <a
-                  href="mailto:contactspotnews@gmail.com"
+                  href="mailto:fouziyapublications@gmail.com"
                   className="text-xs font-bold text-[#015BB3] hover:underline block truncate"
                 >
-                  contactspotnews@gmail.com
+                  fouziyapublications@gmail.com
                 </a>
               </div>
             </div>
@@ -269,10 +269,10 @@ export const AccountDeletionPage: React.FC = () => {
               <div className="min-w-0">
                 <p className="text-xs font-bold uppercase text-[#6B7A90]">Email Support</p>
                 <a
-                  href="mailto:contactspotnews@gmail.com"
+                  href="mailto:fouziyapublications@gmail.com"
                   className="text-base sm:text-lg font-bold text-[#015BB3] hover:underline break-all"
                 >
-                  contactspotnews@gmail.com
+                  fouziyapublications@gmail.com
                 </a>
               </div>
             </div>
@@ -312,10 +312,10 @@ export const AccountDeletionPage: React.FC = () => {
                 <Mail className="w-4 h-4 text-[#015BB3]" />
                 <span>Email: </span>
                 <a
-                  href="mailto:contactspotnews@gmail.com"
+                  href="mailto:fouziyapublications@gmail.com"
                   className="font-bold text-[#015BB3] hover:underline break-all"
                 >
-                  contactspotnews@gmail.com
+                  fouziyapublications@gmail.com
                 </a>
               </p>
             </div>
