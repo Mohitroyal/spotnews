@@ -18,8 +18,12 @@ export const ContactPage: React.FC = () => {
             className="text-2xl sm:text-3xl font-bold text-[#0A2540] mt-3"
             style={{ fontFamily: "'Playfair Display', Georgia, serif" }}
           >
-            Contact Spot News 24x7
+            Contact Us
           </h1>
+          <div className="mt-4 text-[#2D3E50]">
+            <p className="text-lg font-bold text-[#0A2540]">Spot News 24x7</p>
+            <p className="text-base mt-1">Published by: <strong>FOUZIYA PUBLICATIONS</strong></p>
+          </div>
         </div>
 
         <p className="text-base text-[#2D3E50] leading-relaxed">
@@ -31,13 +35,13 @@ export const ContactPage: React.FC = () => {
             <div className="w-10 h-10 rounded-xl bg-[#D6E9FF] flex items-center justify-center text-[#015BB3]">
               <Mail className="w-5 h-5" />
             </div>
-            <h3 className="font-bold text-lg text-[#0A2540]">Email Support</h3>
+            <h3 className="font-bold text-lg text-[#0A2540]">Email</h3>
             <p className="text-xs text-[#6B7A90]">For all official correspondence, inquiries, and deletion requests</p>
             <a
-              href="mailto:contactspotnews@gmail.com"
+              href="mailto:fouziyapublications@gmail.com"
               className="text-base font-bold text-[#015BB3] hover:underline block break-all"
             >
-              contactspotnews@gmail.com
+              fouziyapublications@gmail.com
             </a>
           </div>
 
@@ -45,7 +49,7 @@ export const ContactPage: React.FC = () => {
             <div className="w-10 h-10 rounded-xl bg-[#D6E9FF] flex items-center justify-center text-[#CC1E1E]">
               <Phone className="w-5 h-5" />
             </div>
-            <h3 className="font-bold text-lg text-[#0A2540]">Reporters Helpline</h3>
+            <h3 className="font-bold text-lg text-[#0A2540]">Phone</h3>
             <p className="text-xs text-[#6B7A90]">Wanted reporters and editorial queries</p>
             <a
               href="tel:7668886666"
